@@ -103,4 +103,4 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-<img src="Telco6.JPG" alt=" " style="width: 600px;">
+<img src="frontend.PNG" alt=" " style="width: 600px;">
